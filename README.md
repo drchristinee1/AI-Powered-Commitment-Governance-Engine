@@ -1,6 +1,7 @@
 # AI-Powered Commitment Governance Engine
 
 **Detect. Explain. Recommend. Govern.**
+> Turning cloud commitment data into governed financial decisions.
 
 A FinOps automation prototype that analyzes AWS Savings Plans, Reserved Instances, and cloud credits to detect financial risk, explain cost exposure, and recommend renewal actions. > Turning cloud commitment data into governed financial decisions.
 
