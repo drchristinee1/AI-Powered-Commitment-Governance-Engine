@@ -1,0 +1,5 @@
+commitment_id,type,service,region,on_demand_cost,effective_cost,owner
+sp-001,SavingsPlan,EC2,us-east-1,1000,850,team-a
+ri-002,ReservedInstance,RDS,us-east-1,800,400,team-b
+sp-003,SavingsPlan,EC2,us-west-2,1200,1100,team-c
+ri-004,ReservedInstance,RDS,us-west-2,600,300,team-d
